@@ -17,10 +17,12 @@ Tudo roda no navegador: sem cadastro, sem servidor, sem rastreamento.
 ![Offline](https://img.shields.io/badge/offline-sim-facc15)
 
 </div>
----
-> 📦 **Você está na versão leve (1,6 MB).** Ela abre rápido em qualquer celular, mas **não inclui as 1344 questões do ENEM**.
-> Quer o ENEM? Use a **[versão completa](https://Arabiano0301.github.io/degrau/)** (36 MB, demora mais para abrir).
----
+
+📦 Você está na versão leve (1,6 MB). Ela abre rápido em qualquer celular, mas não inclui as 1344 questões do ENEM.
+
+Quer o ENEM? Use a [versão completa](https://Arabiano0301.github.io/degrau/) (36 MB, demora mais para abrir).
+
+</div>
 
 ## ✨ O que tem dentro
 
