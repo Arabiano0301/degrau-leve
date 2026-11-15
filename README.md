@@ -8,7 +8,7 @@
 **Trilhas por nível, fórmulas explicadas, demonstrações em 3D e gráficos interativos.**
 Tudo roda no navegador: sem cadastro, sem servidor, sem rastreamento.
 
-[![Abrir o app](https://img.shields.io/badge/%E2%96%B6%20Abrir%20o%20app-Degrau%20leve-1f9bff?style=for-the-badge)](https://arabiano0301.github.io/degrau-leve/)
+[![Abrir o app](https://img.shields.io/badge/%E2%96%B6%20Abrir%20o%20app-Degrau%20leve-1f9bff?style=for-the-badge)](https://Arabiano0301.github.io/degrau-leve/)
 
 ![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-3ddc97)
 ![Tecnologia](https://img.shields.io/badge/tecnologia-HTML%20%2B%20CSS%20%2B%20JS-ff9f43)
@@ -18,7 +18,11 @@ Tudo roda no navegador: sem cadastro, sem servidor, sem rastreamento.
 
 </div>
 
----
+📦 Você está na versão leve (1,6 MB). Ela abre rápido em qualquer celular, mas não inclui as 1344 questões do ENEM.
+
+Quer o ENEM? Use a [versão completa](https://Arabiano0301.github.io/degrau/) (36 MB, demora mais para abrir).
+
+</div>
 
 > 📦 **Você está na versão leve (1,6 MB).** Ela abre rápido em qualquer celular, mas **não inclui as 1344 questões do ENEM**.
 > Quer o ENEM? Use a **[versão completa](https://arabiano0301.github.io/degrau/)** (36 MB, demora mais para abrir).
